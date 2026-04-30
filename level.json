@@ -1,0 +1,92 @@
+[
+  {
+    "level": "Elementary",
+    "words": [
+      "happy",
+      "friend",
+      "water",
+      "family",
+      "food",
+      "angry",
+      "house",
+      "sleep",
+      "learn",
+      "smile"
+    ]
+  },
+  {
+    "level": "Pre-Intermediate",
+    "words": [
+      "travel",
+      "weather",
+      "market",
+      "simple",
+      "garden",
+      "useful",
+      "manage",
+      "polite",
+      "reason",
+      "choice"
+    ]
+  },
+  {
+    "level": "Intermediate",
+    "words": [
+      "achieve",
+      "benefit",
+      "consider",
+      "develop",
+      "evaluate",
+      "improve",
+      "obtain",
+      "provide",
+      "require",
+      "suggest"
+    ]
+  },
+  {
+    "level": "Upper-Intermediate",
+    "words": [
+      "analyse",
+      "concept",
+      "deduce",
+      "emerge",
+      "fluctuate",
+      "imply",
+      "negotiate",
+      "perceive",
+      "restrict",
+      "sustain"
+    ]
+  },
+  {
+    "level": "Advanced",
+    "words": [
+      "ambiguous",
+      "contemplate",
+      "elaborate",
+      "fundamental",
+      "inevitable",
+      "meticulous",
+      "pragmatic",
+      "substantial",
+      "vulnerable",
+      "phenomenon"
+    ]
+  },
+  {
+    "level": "Proficient",
+    "words": [
+      "amalgamate",
+      "circumvent",
+      "disseminate",
+      "ephemeral",
+      "juxtapose",
+      "perfunctory",
+      "recalcitrant",
+      "superfluous",
+      "tenacious",
+      "ubiquitous"
+    ]
+  }
+]

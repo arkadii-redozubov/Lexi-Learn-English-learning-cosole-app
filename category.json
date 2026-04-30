@@ -1,0 +1,77 @@
+[
+  {
+    "words": [
+      "predator",
+      "nocturnal",
+      "hibernate",
+      "carnivore",
+      "migrate",
+      "amphibian",
+      "domesticate",
+      "camouflage",
+      "scavenger",
+      "omnivore"
+    ],
+    "category": "Animals"
+  },
+  {
+    "words": [
+      "bitter",
+      "savory",
+      "cuisine",
+      "appetite",
+      "ferment",
+      "garnish",
+      "simmer",
+      "indulge",
+      "recipe",
+      "beverage"
+    ],
+    "category": "Food & Drink"
+  },
+  {
+    "words": [
+      "melancholy",
+      "euphoria",
+      "anxious",
+      "content",
+      "frustrated",
+      "serene",
+      "envious",
+      "nostalgic",
+      "optimistic",
+      "empathy"
+    ],
+    "category": "Emotions"
+  },
+  {
+    "words": [
+      "itinerary",
+      "passport",
+      "luggage",
+      "navigate",
+      "destination",
+      "departure",
+      "accommodation",
+      "expedition",
+      "souvenir",
+      "customs"
+    ],
+    "category": "Travel"
+  },
+  {
+    "words": [
+      "algorithm",
+      "bandwidth",
+      "encrypt",
+      "interface",
+      "protocol",
+      "database",
+      "binary",
+      "network",
+      "software",
+      "digital"
+    ],
+    "category": "Technology"
+  }
+]
